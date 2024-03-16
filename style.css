@@ -3,6 +3,9 @@ p{
 }
 *{
     font-family:'Times New Roman', Times, serif;
-    background-color:black;
+    background-color:rgba(0, 0, 0, 0.924);
     color: white;
+}
+.head{
+    color: rgb(0,255,0)
 }
