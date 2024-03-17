@@ -6,6 +6,38 @@ p{
     background-color:rgba(0, 0, 0, 0.924);
     color: white;
 }
-.head{
-    color: rgb(0,255,0)
+
+button:hover{
+    background-color:grey;
+}
+.choice2{
+    background-color: green;
+}
+.choice1{
+    color:red;
+    background-color: black;
+}
+.choice3{
+    color:black;
+    background-color: white;
+}
+h2, ol{
+    width:fit-content;
+    margin-right: auto;
+    padding:10px;
+    outline: 2px ridge rgb(39, 39, 125);
+    border-radius:2rem;
+
+}
+ol,ul{
+    outline: 2px ridge rgb(39, 39, 125);
+    border-radius:2rem;
+    background-color: rgb(33, 33, 54);
+    padding: 30px;
+}
+li{
+    background-color: rgb(33, 33, 54);
+}
+.diff-list, .diff-list li{ 
+    background-color: black;    
 }
